@@ -1,23 +1,39 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Danilo!
+# Olá Pessoal! :vulcan_salute:
 
-- 🏫 I'm currently studying Software Development at Cubos Academy;
-- 📡 I'm looking for my first opportunity as a Junior Full-Stack Dev;
-##
+### Desenvolvedor Web Fullstack em Formação | Estudante de Análise e Desenvolvimento de Sistemas
+
+👋 Olá, eu sou o Danilo, um entusiasta da tecnologia apaixonado por desenvolvimento web fullstack. Atualmente, estou em processo de formação para me tornar um desenvolvedor web fullstack na Cubos Academy, onde estou aprendendo as mais recentes tecnologias e práticas de desenvolvimento.
+
+### 🌱 Em Formação:
+- Desenvolvedor Web Fullstack na Cubos Academy
+- Bacharelado em Análise e Desenvolvimento de Sistemas na Estácio
+
+### 💼 Habilidades:
+- **Linguagens de Programação:** JavaScript, Python
+- **Frameworks e Bibliotecas:** React.js, Node.js, Express.js
+- **Banco de Dados:** MongoDB, MySQL
+- **Ferramentas de Controle de Versão:** Git, GitHub
+
+### 🚀 Projetos Notáveis:
+
+- **[Jogo da Velha]**(https://github.com/danilolopes87/jogo-da-velha)
+
+  
+
+Estou sempre interessado em oportunidades para colaborar em projetos inovadores e desafiadores. Se você está procurando um desenvolvedor dedicado e apaixonado, não hesite em entrar em contato!
+
+Happy coding! 🚀
 
 
-<h3>Skills:</h3>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Danilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Danilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Danilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Danilo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Danilo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-</div>
+## :point_right: Para me encontrar:
 
-##
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-lopes-60595b223/)
 
-<div>
- <a href="https://www.linkedin.com/in/danilo-lopes-60595b223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## :keyboard: Hard Skills:
+
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
