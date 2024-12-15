@@ -9,14 +9,10 @@
 - Bacharelado em Análise e Desenvolvimento de Sistemas na Estácio
 
 ### 💼 Habilidades:
-- **Linguagens de Programação:** JavaScript, Python
+- **Linguagens de Programação:** JavaScript, TypeScript
 - **Frameworks e Bibliotecas:** React.js, Node.js, Express.js
 - **Banco de Dados:** MongoDB, MySQL
 - **Ferramentas de Controle de Versão:** Git, GitHub
-
-### 🚀 Projetos Notáveis:
-
-- **[Jogo da Velha]**(https://github.com/danilolopes87/jogo-da-velha)
 
   
 
